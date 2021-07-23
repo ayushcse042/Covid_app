@@ -1,4 +1,4 @@
-# covidify
+# Covid App 
 
 A new Flutter project.
 
