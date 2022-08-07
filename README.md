@@ -1,16 +1,6 @@
 # Covid App 
 
-A new Flutter project.
+• This is to show data for coronavirus current active cases, the total number of deaths, recovered cases, etc. It is also used to know all information related to vaccination slot, which slot is free for vaccination all over
+India. Used API to fetch data
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• This app is made using flutter
