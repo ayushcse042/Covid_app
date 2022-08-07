@@ -4,3 +4,9 @@
 India. Used API to fetch data
 
 • This app is made using flutter
+
+How to Install and Run the Project locally-
+
+flutter create
+
+flutter run
